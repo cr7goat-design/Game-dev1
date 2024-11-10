@@ -1,0 +1,71 @@
+fmly_lst = ["Aamir", "Foziya", "Natalia", "Daniyal", "Daniyal"]  
+
+# Total items in the list 
+print(f"Tot no. items : {len(fmly_lst)}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Natalia") 
+print(fmly_lst,"\n") 
+
+# Count how many Daniyal in list 
+print(f"How many times Daniyal is in this list : {fmly_lst. count("Daniyal")}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Daniyal") 
+print(fmly_lst,"\n") fmly_lst = ["Aamir", "Foziya", "Natalia", "Daniyal", "Daniyal"]  
+
+# Total items in the list 
+print(f"Tot no. items : {len(fmly_lst)}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Natalia") 
+print(fmly_lst,"\n") 
+
+# Count how many Daniyal in list 
+print(f"How many times Daniyal is in this list : {fmly_lst. count("Daniyal")}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Daniyal") 
+print(fmly_lst,"\n") fmly_lst = ["Aamir", "Foziya", "Natalia", "Daniyal", "Daniyal"]  
+
+# Total items in the list 
+print(f"Tot no. items : {len(fmly_lst)}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Natalia") 
+print(fmly_lst,"\n") 
+
+# Count how many Daniyal in list 
+print(f"How many times Daniyal is in this list : {fmly_lst. count("Daniyal")}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Daniyal") 
+print(fmly_lst,"\n") fmly_lst = ["Aamir", "Foziya", "Natalia", "Daniyal", "Daniyal"]  
+
+# Total items in the list 
+print(f"Tot no. items : {len(fmly_lst)}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Natalia") 
+print(fmly_lst,"\n") 
+
+# Count how many Daniyal in list 
+print(f"How many times Daniyal is in this list : {fmly_lst. count("Daniyal")}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Daniyal") 
+print(fmly_lst,"\n") fmly_lst = ["Aamir", "Foziya", "Natalia", "Daniyal", "Daniyal"]  
+
+# Total items in the list 
+print(f"Tot no. items : {len(fmly_lst)}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Natalia") 
+print(fmly_lst,"\n") 
+
+# Count how many Daniyal in list 
+print(f"How many times Daniyal is in this list : {fmly_lst. count("Daniyal")}\n") 
+
+# Remove item in the list 
+fmly_lst.remove("Daniyal") 
+print(fmly_lst,"\n") 
