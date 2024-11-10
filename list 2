@@ -1,0 +1,26 @@
+# append() & extend() are used to add items i list
+
+lst_1 = ["Fozia", "Daniyal", "Anagan", "Riely"]  
+print(lst_1,'\n')
+
+# adding an item using append()
+lst_1.append("321")
+print(lst_1,'\n')
+
+lst_2 = ["Aamir", "Natalia", "Priya"]
+print(lst_2) 
+
+# adding lst_1 & lst_2 using append() 
+lst_1.append(lst_2)
+print(f"Adding 2 lists with append(): {lst_1}\n") 
+
+lst_3 = [521, 231, 675]
+# adding lst_1 & lst_3 using extend() 
+lst_2.extend(lst_3)
+print(f"Adding 2 lists with extend(). Now Lst_2 = {lst_2}\n") 
+
+# #chk if 'priya' is in lst_2 using in/not in keywords 
+print("Priya" in lst_2) 
+
+# #chk if 'Daniyal' is in lst_1 using in/not in keywords 
+print("Daniyal" not in lst_1)
