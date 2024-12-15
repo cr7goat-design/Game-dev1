@@ -1,0 +1,42 @@
+stuDetalis=("Daniyal",11) 
+print(stuDetalis)  
+my_tuple = 3,4.6, "dog" 
+print("\n", my_tuple) 
+
+#nested tuple
+n_tuple = ("mouse", [3,9,8],(11,12,13)) 
+print("\n",n_tuple) 
+print(len(n_tuple)) 
+
+# get only 'mouse' from n_tuple
+print("\n", n_tuple[0]) 
+
+# retrive only 's' from 'mouse' in n_tuple 
+print("\n", n_tuple[0][3]) 
+
+
+
+# retrive only [3,9,8] from n_tuple 
+print("\n",n_tuple[1]) 
+
+# retrive only 12 from n_tuple 
+print("\n", n_tuple[2][1]) 
+
+
+new_tuple = ('p','r','o','g','r','a','m','i','z')
+
+# slicing
+#retrive from 2nd to  4th item
+print('\n', new_tuple[2:5])
+
+#retrive  'r','a','m' item
+print("\n",new_tuple[4:7]) 
+
+
+# retrive 'i','z' as output
+print("\n",new_tuple[7:9]) #or print("\n",new_tuple[7:]) 
+
+# retrive 'p','r' as output 
+print("\n",new_tuple[0:2]) 
+ #OR
+print("\n",new_tuple[:-7])
